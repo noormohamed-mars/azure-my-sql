@@ -3,7 +3,8 @@
   "version": "",
   "description": "",
   "scripts": {
-    "test": "echo \"No tests yet...\""
+    "test": "echo \"No tests yet...\"",
+    "start": "index.js"
   },
   "author": "",
   "dependencies": {
